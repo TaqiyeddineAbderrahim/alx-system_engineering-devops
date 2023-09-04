@@ -103,4 +103,6 @@ Write a shell script that creates a file named exactly ***\\\*\\\\'"Best School"
 #!/bin/bash
 echo "Best School" > '\*\\'\''"Best School"\'\''\\*$\?\*\*\*\*\*:)'
 ```
+## 8. Save current state of directory
+
 
